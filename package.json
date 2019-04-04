@@ -1,0 +1,22 @@
+{
+  "name": "doom-fire-algorithm",
+  "version": "1.0.0",
+  "description": "Algorithm for creating the fire effect of the game DOOM, based on @filipedeschamps tutorial",
+  "main": "fire.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallesfelix/doom-fire-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallesfelix/doom-fire-algorithm/issues"
+  },
+  "homepage": "https://github.com/tallesfelix/doom-fire-algorithm#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
